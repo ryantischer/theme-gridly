@@ -3,7 +3,7 @@ theme-gridly
 
 The official theme repo for Gridly. Fork this to use it as a boilerplate.
 
-## Getting Started
+## Getting Starteddsf
 
 This theme uses LESS for CSS precompiling, and it uses Gulp for compiling the LESS into CSS, and also for concatenating and minifying JavaScript files.
 
